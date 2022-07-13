@@ -1,1 +1,0 @@
-﻿Get-ADGroupMember -identity "cxa_app_naxt_production" -Recursive | Get-ADUser -Property DisplayName, Mail |Select Name, ObjectClass, Mail | Export-CSV -Path C:\Users\jwadmin\Desktop\NaxtProdHastingsDeeringUsers.csv -NoTypeInformation

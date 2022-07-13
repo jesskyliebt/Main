@@ -1,3 +1,0 @@
-\\computername\c$\Windows\System32\rundll32.exe user32.dll,LockWorkStation
-
-\\5CG92554XF\c$\Windows\System32\rundll32.exe user32.dll,LockWorkStation
