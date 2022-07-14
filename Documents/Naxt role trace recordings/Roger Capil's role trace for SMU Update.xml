@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntryPoints>
+  <EntryPoint Type="MenuItemAction" AOTName="XAP_SvcSMUUploadJournalPost" />
+  <EntryPoint Type="MenuItemAction" AOTName="XAP_SvcUploadSMU" />
+  <EntryPoint Type="MenuItemDisplay" AOTName="XAP_SvcSMUUploadJournalTable" />
+</EntryPoints>

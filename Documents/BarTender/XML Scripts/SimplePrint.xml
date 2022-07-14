@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLScript Version="2.0" Name="09232006_103601_Job1" ID="123">
+<Command Name="MyJob">
+<Print WaitForJobToComplete="false" JobName="Sears" Timeout="30000" ReturnPrintData="true" ReturnSummary="true" ReturnLabelData="true" ReturnChecksum="true">
+<Format>..\BarTender Documents\Retailers\SEARS.BTW</Format>
+</Print>
+</Command>
+</XMLScript>
+
+

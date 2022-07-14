@@ -1,0 +1,6 @@
+query user jackh /server:5CG92554XF
+
+logoff 1 /server:5CG92554XF
+
+
+https://www.nextofwindows.com/windows-tip-how-to-remotely-logoff-users-via-command-line-tools
