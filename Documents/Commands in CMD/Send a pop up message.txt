@@ -1,3 +1,0 @@
-<"send a message pop up to another computer on the same network">
-
-msg /server:{computername} console{message}
